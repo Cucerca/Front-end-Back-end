@@ -1,0 +1,15 @@
+body{
+ font-size:18px;
+ padding: 20px;
+ }
+#box{
+width:100px;
+padding:10px;
+border: solid #110041 5px;
+border-radius:20px;
+}
+img.center{
+    display: block;
+    margin:0 auto;
+    width:25%;
+}
